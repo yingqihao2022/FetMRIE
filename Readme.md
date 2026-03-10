@@ -1,5 +1,5 @@
 # FetMRIE: Unsupervised Fetal Brain MRI Image Enhancement with Anatomical Fidelity via Adaptive State-Matching Denoising Diffusion
-**Official Implementation of MICCAI 2025 Paper**
+**Official Implementation of MICCAI 2026 Paper Submission**
 ## Overview
 This repository contains the implementation of FetMRIE, a fully unsupervised framework for enhancing fetal brain MRI images. Our method employs a two-stage pipeline combining latent-space denoising with adaptive diffusion-based structural restoration to achieve superior tissue contrast enhancement while preserving anatomical fidelity.
 ## Key Features
