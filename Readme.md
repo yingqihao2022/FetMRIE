@@ -7,7 +7,9 @@ This repository contains the implementation of FetMRIE, a fully unsupervised fra
 - **Two-Stage Framework**: VAE initial denoising + Diffusion-based structural restoration  
 - **Adaptive State Matching**: Case-specific noise level adaptation during inference
 - **Anatomical Preservation**: Maintains cortical folds and tissue boundaries
+  
 ## Code Availability
-The complete source code will be made available upon publication.
+The complete source code has been provided. Some of them are originally from MONAI, we deeply appreciate it!
+
 ## Pre-trained Weights
-Pre-trained model weights will be released after paper acceptance.
+Pre-trained model weights can be provided upon paper acceptance. 
